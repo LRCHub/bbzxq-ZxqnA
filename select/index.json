@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Portra 400",
+  "base_artist": "Arlo Parks",
+  "createdAt": "2026-02-17T12:27:30.661725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Portra 400",
+      "artist": "Arlo Parks",
+      "has_synced": false,
+      "path": "select/01_Portra_400_Arlo_Parks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Portra 400",
+      "artist": "Arlo Parks",
+      "has_synced": true,
+      "path": "select/02_Portra_400_Arlo_Parks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Portra 400 - Arlo Parks (instrumental)",
+      "artist": "iwotami",
+      "has_synced": true,
+      "path": "select/03_Portra_400_-_Arlo_Parks_(instrumental)_iwotami.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Portra 400",
+      "artist": "Arlo Parks",
+      "has_synced": true,
+      "path": "select/04_Portra_400_Arlo_Parks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Portra 400",
+      "artist": "Parks Arlo",
+      "has_synced": true,
+      "path": "select/05_Portra_400_Parks_Arlo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Portra 400",
+      "artist": "Arlo Parks",
+      "has_synced": false,
+      "path": "select/pl_01_Portra_400_Arlo_Parks.txt"
+    }
+  ]
+}
